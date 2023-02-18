@@ -22,7 +22,13 @@ The code has two major parts:
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 
 ## Citation
