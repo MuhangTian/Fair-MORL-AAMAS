@@ -12,8 +12,8 @@ pip install -r requirements.txt
 
 ## Code Structure
 The code has two major parts:
-* Simulated enviroments: Fair_Taxi_MDP_Penalty_V2.py and resource_gathering.py
-* Algorithm implementation: linear_scalarization.py, mixture_policy.py, nsw_ql.py, other_welfare.py, and ql.py
+* Simulated enviroments: `Fair_Taxi_MDP_Penalty_V2.py` and `resource_gathering.py`
+* Algorithm implementation: `linear_scalarization.py`, `mixture_policy.py`, `nsw_ql.py`, `other_welfare.py`, and `ql.py`
 
 ### Experiments
 * To reproduce our results for Welfare Q-learning with NSW, mixture policy, and linear scalarization baselines, run those files with same hyper-parameters, respecively: `nsw_ql.py`, `mixture_policy.py`, `linear_scalarization.py`
