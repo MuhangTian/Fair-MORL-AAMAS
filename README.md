@@ -21,7 +21,12 @@ The code has two major parts:
 
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
-https://user-images.githubusercontent.com/89415312/219903240-1ffc4651-5e85-43bc-a661-a99cede90994.mov
+
+<iframe width="560" height="315"
+src="https://drive.google.com/file/d/19aRo1YdovUgDWHd6NagzP7mQAzVQERza/view?usp=sharing" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 ## Citation
