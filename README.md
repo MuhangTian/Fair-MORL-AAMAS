@@ -22,11 +22,7 @@ The code has two major parts:
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
 
-<iframe width="560" height="315"
-src="https://drive.google.com/file/d/19aRo1YdovUgDWHd6NagzP7mQAzVQERza/view?usp=sharing" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 ## Citation
