@@ -16,8 +16,8 @@ The code has two major parts:
 * Algorithm implementation: `linear_scalarization.py`, `mixture_policy.py`, `nsw_ql.py`, `other_welfare.py`, and `ql.py`
 
 ### Experiments
-* To reproduce our results for Welfare Q-learning with NSW, mixture policy, and linear scalarization baselines, run those files with same hyper-parameters, respecively: `nsw_ql.py`, `mixture_policy.py`, `linear_scalarization.py`
-* To reproduce our results in the supplementary material for other welfare functions, select the welfare function of your choice in the file, and run `other_welfare.py` with same hyper-parameters.
+* To reproduce our results for Welfare Q-learning with NSW, mixture policy, and linear scalarization baselines, run those files with same hyper-parameter as reported in the paper, respectively: `nsw_ql.py`, `mixture_policy.py`, `linear_scalarization.py`
+* To reproduce our results in the supplementary material for other welfare functions (egalitarian, p-welfare), select the welfare function of your choice in the file, and run `other_welfare.py` with same hyper-parameters.
 
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
