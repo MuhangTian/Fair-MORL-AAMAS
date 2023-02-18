@@ -22,13 +22,7 @@ The code has two major parts:
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
 
-<object width="425" height="350">
-  <param name="movie" value="https://drive.google.com/file/d/19aRo1YdovUgDWHd6NagzP7mQAzVQERza/view?usp=sharing" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://drive.google.com/file/d/19aRo1YdovUgDWHd6NagzP7mQAzVQERza/view?usp=sharing"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+![](6x6.gif)
 
 
 ## Citation
