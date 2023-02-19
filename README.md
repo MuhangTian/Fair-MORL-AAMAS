@@ -24,7 +24,7 @@ I personally find it very satisfying to see the performance of trained agents. T
 
 *Visualization of agent performance trained with Welfare Q-learning under Nash Social Welfare objective*
 
-<img src="6x6.gif" width="250" height="250"/> <img src="10x10.gif" width="250" height="250"/>
+<img src="img/2.gif" width="250" height="250"/> <img src="img/3.gif" width="250" height="250"/> <img src="img/4.gif" width="250" height="250"/>
 
 
 ## Citation
