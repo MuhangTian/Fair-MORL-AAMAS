@@ -22,7 +22,7 @@ The code has two major parts:
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
 
-![](6x6.gif) ![](10x10.gif)
+![](6x6.gif) ![](<img src="10x10.gif" width="250" height="250"/>)
 
 
 ## Citation
