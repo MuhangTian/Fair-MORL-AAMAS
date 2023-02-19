@@ -22,7 +22,7 @@ The code has two major parts:
 ### See My Agent
 To visualize the performance of your agent in the grid world, save your trained Q-table as provided in the file, then use `evaluate.py` to see your trained agent interacting with the world.
 
-*Visualization of agent performance trained with Welfare Q-learning with Nash Social Welfare Objective Function*
+*Visualization of agent performance trained with Welfare Q-learning under Nash Social Welfare objective*
 
 <img src="6x6.gif" width="250" height="250"/> <img src="10x10.gif" width="250" height="250"/>
 
