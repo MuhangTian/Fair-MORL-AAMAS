@@ -1,4 +1,5 @@
 # Welfare and Fairness in Multi-objective Reinforcement Learning (AAMAS 2023)
+[![arxiv badge](https://arxiv.org/pdf/2212.01382.pdf)
 
 This repository contains our implementation of experiments in the paper, primarily using NumPy.
 
@@ -31,5 +32,10 @@ Our agent is a "taxi driver" who is trying to deliver passengers from multiple d
 
 ## Citation
 ```latex
-
+@article{fan2022welfare,
+  title={Welfare and Fairness in Multi-objective Reinforcement Learning},
+  author={Fan, Zimeng and Peng, Nianli and Tian, Muhang and Fain, Brandon},
+  journal={arXiv preprint arXiv:2212.01382},
+  year={2022}
+}
 ```
