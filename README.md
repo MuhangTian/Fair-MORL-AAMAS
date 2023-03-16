@@ -31,7 +31,7 @@ Our agent is a "taxi driver" who is trying to deliver passengers from multiple d
 
 
 ## Citation
-```latex
+```BibTex
 @article{fan2022welfare,
   title={Welfare and Fairness in Multi-objective Reinforcement Learning},
   author={Fan, Zimeng and Peng, Nianli and Tian, Muhang and Fain, Brandon},
