@@ -21,7 +21,7 @@ The code has two major parts:
 * To reproduce our results in the supplementary material for other welfare functions (egalitarian, p-welfare), select the welfare function of your choice in the file, and run `other_welfare.py` with same hyper-parameters.
 
 ### See My Agent
-I personally find it very satisfying to see the performance of trained agents. Thus, I have provided `evaluate.py` in this repository, which can be used to render the performance of trained agents using PyGame. To use `evaluate.py`, load the trained Q-table saved from training, and pass it into `eval_nsw()` function. An example is shown below.
+I personally find it very satisfying to see the performance of trained agents. Thus, I have provided `evaluate.py` in this repository, which can be used to render the performance of trained agents using PyGame. To use `evaluate.py`, load the trained Q-table saved from training, and pass it into `eval_nsw()` function. An example of the rendering is shown below.
 
 ### Visualization of agent performance trained with *Welfare Q-learning* under *Nash Social Welfare* objective
 
