@@ -25,7 +25,7 @@ I personally find it very satisfying to see the performance of trained agents. T
 
 ### Visualization of agent performance trained with *Welfare Q-Learning* with *Nash Social Welfare* objective
 
-Our agent (the moving circle) is a taxi driver who is trying to deliver passengers from multiple different locations (red, blue squares represent destinations and origins, respectively). When the circle turns green, it means there is a passenger currently in taxi, with the number indicating where the passenger originates. When the circle turns orange, it means the taxi is currently empty and is available to pick a new passenger. The goal of the agent is to perform delivery services fairly over the locations, which is defined by maximizing *Nash Social Welfare* function in this specific case.
+Our agent (the moving circle) is a taxi driver who is trying to deliver passengers from multiple different locations (red, blue squares represent destinations and origins, respectively). When the circle turns green, it means there is a passenger currently in taxi, with the number indicating where the passenger originates. When the circle turns orange, it means the taxi is currently empty and is available to pick a new passenger. The goal of the agent is to perform delivery services fairly over the locations, which is defined by maximizing expected *Nash Social Welfare* in this specific case.
 
 <img src="img/2.gif" width="250" height="250"/> <img src="img/3.gif" width="250" height="250"/> <img src="img/4.gif" width="250" height="250"/>
 
