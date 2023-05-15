@@ -23,7 +23,7 @@ The code has two major parts:
 ### See My Agent
 I personally find it very satisfying to see the performance of trained agents. Thus, I have provided `evaluate.py` in this repository, which can be used to render the performance of trained agents using PyGame. To use `evaluate.py`, load the trained Q-table saved from training, and pass it into `eval_nsw()` function. An example of the rendering is shown below.
 
-### Visualization of agent performance trained with *Welfare Q-learning* under *Nash Social Welfare* objective
+### Visualization of agent performance trained with *Welfare Q-Learning* with *Nash Social Welfare* objective
 
 Our agent is a "taxi driver" who is trying to deliver passengers from multiple different locations (red, blue square represent destination and origin, respectively). Green means there is a passenger currently in taxi, with the number indicating where the passenger is from. Orange means the taxi is currently empty. The goal of the agent is to perform delivery service fairly over the locations, which is defined by *Nash Social Welfare* function in this specific case.
 
