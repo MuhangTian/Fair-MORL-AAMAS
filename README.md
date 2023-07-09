@@ -32,10 +32,11 @@ Our agent (the moving circle) is a taxi driver who is trying to deliver passenge
 
 ## Citation
 ```BibTex
-@article{fan2022welfare,
+@inproceedings{fan2023welfare,
   title={Welfare and Fairness in Multi-objective Reinforcement Learning},
-  author={Fan, Zimeng and Peng, Nianli and Tian, Muhang and Fain, Brandon},
-  journal={arXiv preprint arXiv:2212.01382},
-  year={2022}
+  author={Fan, Ziming and Peng, Nianli and Tian, Muhang and Fain, Brandon},
+  booktitle={Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems},
+  pages={1991--1999},
+  year={2023}
 }
 ```
