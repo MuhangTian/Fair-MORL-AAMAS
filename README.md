@@ -1,5 +1,5 @@
 # Welfare and Fairness in Multi-objective Reinforcement Learning (AAMAS 2023)
-[![arxiv badge](https://img.shields.io/badge/arXiv-2212.01382-red)](https://arxiv.org/pdf/2212.01382.pdf)
+[![arxiv badge](https://img.shields.io/badge/arXiv-2212.01382-red)](https://arxiv.org/abs/2212.01382)
 
 This repository contains our implementation of experiments in the paper, primarily using NumPy.
 
