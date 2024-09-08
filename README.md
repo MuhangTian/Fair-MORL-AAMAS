@@ -2,7 +2,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5555/3545946.3598870-blue.svg)](https://dl.acm.org/doi/abs/10.5555/3545946.3598870)
  [![arxiv badge](https://img.shields.io/badge/arXiv-2212.01382-red)](https://arxiv.org/abs/2212.01382)
 
-This repository contains our implementation of experiments in the paper "Welfare and Fairness in Multi-objective Reinforcement Learning." Our work was published at *The International Conference on Autonomous Agents and Multiagent Systems (AAMAS)* in 2023.
+This repository contains our implementation of experiments in the paper "Welfare and Fairness in Multi-objective Reinforcement Learning," where we explored optimizing nonlinear functions over accumulated rewards of multiple dimensions. Our work was published at *The International Conference on Autonomous Agents and Multiagent Systems (AAMAS)* in 2023.
 
 ## Requirements
 To install the necessary packages, run 
