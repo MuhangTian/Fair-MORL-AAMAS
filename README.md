@@ -4,13 +4,13 @@
 
 This repository contains our implementation of experiments in the paper "Welfare and Fairness in Multi-objective Reinforcement Learning," where we explored optimizing nonlinear functions over accumulated rewards of multiple dimensions. Our work was published at *The International Conference on Autonomous Agents and Multiagent Systems (AAMAS)* in 2023.
 
-## Requirements
+## Requirements 🛠️
 To install the necessary packages, run 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Code Structure
+## Code Structure 📚
 The code has two major parts:
 * Simulated enviroments: `Fair_Taxi_MDP_Penalty_V2.py` and `resource_gathering.py`
 * Algorithm implementation: `linear_scalarization.py`, `mixture_policy.py`, `nsw_ql.py`, `other_welfare.py`, and `ql.py`
